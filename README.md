@@ -1,6 +1,5 @@
-## Hey there, I'm 0bi0 👋
+## Hey there, I'm 0bi0
 
-What am I supposed to write here? 😭
 <!--
 **0bi0/0bi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
