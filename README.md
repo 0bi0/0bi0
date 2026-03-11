@@ -10,5 +10,3 @@
 
 
 <!-- fuck the github api limit yo -->
-
-<!-- if ur reading this ur gay -->
