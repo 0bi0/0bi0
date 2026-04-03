@@ -20,7 +20,7 @@
 | ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0bi0&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0bi0&theme=github_dark&utcOffset=8) |
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=272527&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c5a5c&height=120&section=footer" alt="footer"/>
 
 
 <!--
