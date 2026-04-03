@@ -20,8 +20,6 @@
 | ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0bi0&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0bi0&theme=github_dark&utcOffset=8) |
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=105&color=999999&text=0bi0actual@proton.me&textBg=false&section=footer&descAlign=50&fontSize=20&fontColor=242424&fontAlignY=92&fontAlign=50&descAlignY=62" alt="footer"/>
-
 ---
 
 
