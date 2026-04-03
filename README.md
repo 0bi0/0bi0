@@ -20,7 +20,13 @@
 | ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0bi0&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0bi0&theme=github_dark&utcOffset=8) |
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c5a5c&height=120&section=footer" alt="footer"/>
+### Contact info
+<img src="https://img.shields.io/badge/Discord-47A248?style=for-the-badge&logo=discord&logoColor=white&color=1E1E2E&labelColor=7377fa" alt="Discord"> | [@0bi0](https://discord.com/users/0bi0)
+
+<img src="https://img.shields.io/badge/Discord-47A248?style=for-the-badge&logo=tailwind-css&logoColor=white&color=1E1E2E&labelColor=A6E3A1" alt="Email"> | [0bi0actual@proton.me](https://mailto:0bi0actual@proton.me)
+
+
+---
 
 
 <!--
