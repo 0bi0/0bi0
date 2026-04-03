@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=git&logoColor=white&color=1E1E2E&labelColor=F38BA8" alt="Git">
-  <img src="https://img.shields.io/badge/Rust-ED8B00?style=for-the-badge&logo=rust&logoColor=white&color=1E1E2E&labelColor=c4967a" alt="Rust">
   <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white&color=1E1E2E&labelColor=7ac3ff" alt="Python">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=1E1E2E&labelColor=FAB387" alt="Java">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&color=1E1E2E&labelColor=e4b4fe" alt="Kotlin">
