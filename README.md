@@ -2,6 +2,7 @@
 
 <p align="center"><img src="./banner.gif" width=100%></p>
 
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=git&logoColor=white&color=1E1E2E&labelColor=F38BA8" alt="Git">
   <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white&color=1E1E2E&labelColor=7ac3ff" alt="Python">
@@ -11,7 +12,6 @@
   <img src="https://img.shields.io/badge/JavaScript-00DC82?style=for-the-badge&logo=javascript&logoColor=white&color=1E1E2E&labelColor=F9E2AF" alt="JavaScript">
   <img src="https://img.shields.io/badge/Docker-47A248?style=for-the-badge&logo=docker&logoColor=white&color=1E1E2E&labelColor=7dacfa" alt="Docker">
   <!-- <img src="https://img.shields.io/badge/Go-3178C6?style=for-the-badge&logo=go&logoColor=white&color=1E1E2E&labelColor=66b089" alt="Go"></p> -->
-
 
 ---
 
