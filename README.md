@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./banner.gif" width=100%></p>
 
-
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=git&logoColor=white&color=1E1E2E&labelColor=F38BA8" alt="Git">
   <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white&color=1E1E2E&labelColor=7ac3ff" alt="Python">
