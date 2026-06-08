@@ -15,7 +15,6 @@
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1037375706600062996)](https://discord.com/users/1037375706600062996)
 
 
 | **Profile Overview** | **Activity Schedule** |
