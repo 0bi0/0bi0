@@ -1,7 +1,8 @@
 ## Hey there, I'm 0bi0
 
+<!--
 <p align="center"><img src="./banner.gif" width=100%></p>
-
+-->
 
 <!--
 <p align="center">
