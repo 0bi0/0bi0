@@ -1,5 +1,4 @@
-## About
-
+## ═══════════════════════════ About ═══════════════════════════
 
 <p align="center"><img src="./banner.gif" width=100%></p>
 
@@ -19,7 +18,7 @@
 
 | **Software Stack** |
 | :---: |
-|‎ ㅤ‎ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ |
+| ‎ ══════════════════════════════════════════════════════════════════════════════════‎  |
 
 | | | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -32,4 +31,17 @@
 
 ---
 
-## Contact
+## ══════════════════════════ Contact ═══════════════════════════
+
+<table width="100%">
+  <tr>
+    <th align="center">Matrix</th>
+    <th align="center">Email</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://matrix.to/#/@0bi0:matrix.org">@0bi0:matrix.org</a></td>
+    <td align="center"><a href="mailto:0bi0actual@proton.me">0bi0actual@proton.me</a></td>
+  </tr>
+</table>
+
+---
