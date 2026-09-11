@@ -19,7 +19,7 @@
 
 | **Software Stack** |
 | :---: |
-| ‎ ══════════════════════════════════════════════════════════════════════════════════‎  |
+|‎ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ |
 
 | | | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -30,5 +30,6 @@
 | :---: | :---: |
 | ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0bi0&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0bi0&theme=github_dark&utcOffset=8) |
 
-
 ---
+
+## Contact
